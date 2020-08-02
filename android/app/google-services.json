@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "443706543990",
+    "firebase_url": "https://fisiarmy.firebaseio.com",
+    "project_id": "fisiarmy",
+    "storage_bucket": "fisiarmy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443706543990:android:f624463d13584622587457",
+        "android_client_info": {
+          "package_name": "com.example.fisi_army"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443706543990-t7atv69vfjj7gj92mrgfehjjsob3bqbp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fisi_army",
+            "certificate_hash": "0aeea100888f7bd55d587a0cf382e543fd9f07f8"
+          }
+        },
+        {
+          "client_id": "443706543990-h8119pvm5di8m9lgqjojca39djag3frg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcmfCbJFx9Md82AzjuSeQxknd7LN5UZgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443706543990-h8119pvm5di8m9lgqjojca39djag3frg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
